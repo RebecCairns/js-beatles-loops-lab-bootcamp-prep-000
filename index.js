@@ -26,4 +26,5 @@ function iLoveTheBeatles(num){
     newArr.push("I love the Bestles!");
     incrementor++;
   }
+  return newArr;
 }
