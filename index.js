@@ -26,5 +26,8 @@ function iLoveTheBeatles(num){
     newArr.push("I love the Beatles!");
     incrementor++;
   }
+  if(times<1){
+    newArr.push("I love the Beatles!")
+  }
   return newArr;
 }
