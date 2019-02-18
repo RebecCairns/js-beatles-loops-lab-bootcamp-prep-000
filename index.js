@@ -23,7 +23,7 @@ function iLoveTheBeatles(num){
   var newArr = [];
   var incrementor = 0;
   while(incrementor < times){
-    newArr.push("I love the Bestles!");
+    newArr.push("I love the Beatles!");
     incrementor++;
   }
   return newArr;
